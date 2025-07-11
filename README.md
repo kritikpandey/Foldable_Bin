@@ -11,5 +11,8 @@ This repository contains the documentation for our MBA student project – a fol
 We used Databricks to visualize user data and market potential.
 
 ![Dashboard](foldable_bin_sales_data.png)
+![Dashboard](table1.png)
+![Dashboard](table2.png)
+
 
 
