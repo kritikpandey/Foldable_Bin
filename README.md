@@ -1,7 +1,7 @@
 # Foldable_Bin
 # Foldable Bin Project 📦
 
-This repository contains the documentation for our MBA student project – a foldable, user-friendly, and market-demandable waste bin.
+This repository contains the documentation for an MBA student project – a foldable, user-friendly, and highly marketable waste bin.
 
 ## 📌 Overview
 - Purpose: Develop a low-cost, high-demand product
