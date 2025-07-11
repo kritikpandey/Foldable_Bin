@@ -14,5 +14,7 @@ We used Databricks to visualize user data and market potential.
 ![Dashboard](table1.png)
 ![Dashboard](table2.png)
 
+- [SQL QUERIES](Sql_Queries.md)
+
 
 
